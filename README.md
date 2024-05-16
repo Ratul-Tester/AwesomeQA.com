@@ -29,6 +29,12 @@ https://docs.google.com/spreadsheets/d/1I_lYH1rMAeqI5EtYRWrbiO3uKPlq40kq/edit?us
 | Project Name |                       Description                         |        Tools Used        |
 |--------------|-----------------------------------------------------------|--------------------------|
 |   AwesomeQA  |            Tested a web application manually              |Test Plan, Test Cases, Bug|
+------------------------------------------------------------------------------------------------------------------------------------------
+![bug0](https://github.com/Ratul-Tester/AwesomeQA.com/assets/167166555/fb4476cc-25ac-477e-93b3-77fa05d8f8ec)
+![bug1](https://github.com/Ratul-Tester/AwesomeQA.com/assets/167166555/1d67dbad-a330-46d3-9c01-bda3be8afc2e)
+![bug2](https://github.com/Ratul-Tester/AwesomeQA.com/assets/167166555/7c5ffbcb-c2ba-4bc3-b9b1-c96398cfb527)
+![bug3](https://github.com/Ratul-Tester/AwesomeQA.com/assets/167166555/3a49254a-a4ed-454e-b2a0-166f747f1a80)
+
 
 
 
