@@ -14,6 +14,8 @@ https://drive.google.com/file/d/1rNH8LDx3P3LkuyFVVrZGX3KTulKYUyrO/view?usp=shari
 ----------------------------------------------------------------------------------
 https://drive.google.com/file/d/1xq9b7bbnBzWT-Ry83ujXEByEI0qEEopH/view?usp=drive_link
 -------------------------------------------------------------------------------------
+https://docs.google.com/document/d/18VplIaB7WaJfSerQXgcN5aQ14yJF0cbfliistax7fe4/edit?usp=sharing
+------------------------------------------------------------------------------------------------
 https://docs.google.com/spreadsheets/d/1BVjihhAr5wMFaQeSUkXFXgeGXrT1F_vI/edit?usp=drive_link&ouid=109289475584251463160&rtpof=true&sd=true
 ------------------------------------------------------------------------------------------------------------------------------------------
 https://docs.google.com/spreadsheets/d/1fMR9yEbpI6lhDA6yCtcNpk7M34ryDQFD/edit?usp=drive_link&ouid=109289475584251463160&rtpof=true&sd=true
